@@ -1,0 +1,9 @@
+com\plateNumber\ws\service\ApplicationConfig.class
+com\plateNumber\ws\service\DayFacadeREST.class
+com\plateNumber\models\Day.class
+com\plateNumber\config\RESTFulCORSFilter.class
+com\plateNumber\models\Day_.class
+com\plateNumber\ws\service\RestrictionadayFacadeREST.class
+com\plateNumber\models\Restrictionaday_.class
+com\plateNumber\models\Restrictionaday.class
+com\plateNumber\ws\service\AbstractFacade.class
